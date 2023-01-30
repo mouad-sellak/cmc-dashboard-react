@@ -1,0 +1,7 @@
+[
+  { "IDTypeU": "1", "Titre": "Membre inscrit" },
+  { "IDTypeU": "2", "Titre": "Invite avec mot de passe" },
+  { "IDTypeU": "3", "Titre": "invite sans mot de passe" },
+  { "IDTypeU": "4", "Titre": "Anonyme" }
+]
+ 

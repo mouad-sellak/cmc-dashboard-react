@@ -1,8 +1,11 @@
 
+import React from 'react'
+import transition from './data/transition.json'
 function App() {
   return (
     <div className="App">
-      Hi cmc
+      CMC Dashboard
+      {transition.map(t=>console.log(t.Titre))}
     </div>
   );
 }

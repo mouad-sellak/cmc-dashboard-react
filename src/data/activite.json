@@ -1,0 +1,63 @@
+[
+  {
+    "IDAct": "1",
+    "Titre": "Visiter un lien hypertexte",
+    "TypeAct": "0",
+    "IDCat": "1"
+  },
+  { 
+    "IDAct": "2",
+    "Titre": "Afficher une structure (cours,forum)",
+    "TypeAct": "0",
+    "IDCat": "1"
+  },
+  {
+    "IDAct": "3",
+    "Titre": "Afficher les titres des message d'un forum",
+    "TypeAct": "1",
+    "IDCat": "1"
+  },
+  {
+    "IDAct": "4",
+    "Titre": "Afficher le contenu d'un message",
+    "TypeAct": "1",
+    "IDCat": "2"
+  },
+  { "IDAct": "5", "Titre": "Connexion", "TypeAct": "0", "IDCat": "3" },
+  {
+    "IDAct": "6",
+    "Titre": "Plier et deplier l'aborescence d'une structure",
+    "TypeAct": "2",
+    "IDCat": "1"
+  },
+  {
+    "IDAct": "7",
+    "Titre": "Bouger la ScrollBar",
+    "TypeAct": "2",
+    "IDCat": "1"
+  },
+  {
+    "IDAct": "8",
+    "Titre": "Bouger la Scrollbar en bas (afficher la fin d'un message)",
+    "TypeAct": "2",
+    "IDCat": "1"
+  },
+  {
+    "IDAct": "9",
+    "Titre": "Repondre a un message",
+    "TypeAct": "1",
+    "IDCat": "2"
+  },
+  {
+    "IDAct": "10",
+    "Titre": "Poster un nouveau message",
+    "TypeAct": "1",
+    "IDCat": "2"
+  },
+  {
+    "IDAct": "11",
+    "Titre": "Modifier le thème de forum",
+    "TypeAct": "0",
+    "IDCat": "4"
+  }
+]
