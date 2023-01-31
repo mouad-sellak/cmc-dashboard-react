@@ -1,13 +1,14 @@
-
 import React from 'react'
-import transition from './data/transition.json'
-function App() {
+import BarChart from './BarChart'
+import PieChart from './PieChart'
+
+const App = () => {
   return (
-    <div className="App">
-      CMC Dashboard
-      {transition.map(t=>console.log(t.Titre))}
+    <div>
+      <BarChart />
+      <PieChart />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
