@@ -30,7 +30,7 @@ export default class BarChart extends Component {
 			animationEnabled: true,
 			colorSet: "colorSet2",
 			title: {
-				text: "Taux d'engagement des activités par rBarChartort au temps"
+				text: "Taux d'engagement des activités par rapport au temps"
 			},
 			axisX: {
 				valueFormatString: "MMMM"
@@ -53,7 +53,6 @@ export default class BarChart extends Component {
 				name: "User files",
 				showInLegend: true,
 				xValueFormatString: "MMMM YYYY",
-				yValueFormatString: "$#,##0",
 				dataPoints: [
 					{ x: new Date(2017, 0), y: 27500 },
 					{ x: new Date(2017, 1), y: 29000 },
@@ -73,7 +72,6 @@ export default class BarChart extends Component {
 				type: "line",
 				name: "Categories",
 				showInLegend: true,
-				yValueFormatString: "$#,##0",
 				dataPoints: [
 					{ x: new Date(2017, 0), y: 38000 },
 					{ x: new Date(2017, 1), y: 39000 },
@@ -95,7 +93,6 @@ export default class BarChart extends Component {
 				markerBorderColor: "white",
 				markerBorderThickness: 2,
 				showInLegend: true,
-				yValueFormatString: "$#,##0",
 				dataPoints: [
 					{ x: new Date(2017, 0), y: 11500 },
 					{ x: new Date(2017, 1), y: 10500 },
